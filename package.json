@@ -5,7 +5,7 @@
   "description": "A short description of your package",
   "keywords": [
   ],
-  "repository": "https://github.com/nguyensomniac/rainbow",
+  "repository": "https://github.com/nguyensomniac/atom-rainbow",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
