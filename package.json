@@ -1,7 +1,7 @@
 {
   "name": "rainbow",
   "main": "./lib/rainbow",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Turns your text editor into a rave",
   "keywords": [],
   "repository": "https://github.com/nguyensomniac/atom-rainbow",
