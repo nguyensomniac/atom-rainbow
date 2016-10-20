@@ -1,4 +1,4 @@
-# Rainbow
+# Rainbow atom package
 
 ![](https://media.giphy.com/media/3oriOaUwAmcXVFi69q/source.gif)
 
