@@ -2,7 +2,7 @@
   "name": "rainbow",
   "main": "./lib/rainbow",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Turns your text editor into a rave",
   "keywords": [
   ],
   "repository": "https://github.com/nguyensomniac/atom-rainbow",
