@@ -1,15 +1,13 @@
 {
   "name": "rainbow",
   "main": "./lib/rainbow",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Turns your text editor into a rave",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/nguyensomniac/atom-rainbow",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
